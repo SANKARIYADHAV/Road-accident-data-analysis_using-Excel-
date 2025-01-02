@@ -93,7 +93,7 @@ Collaborated with the client to understand their requirements and deliver action
 **Getting Started**
 
 1. Clone this repository:  
-   git clone https://github.com/yourusername/road-accident-data-analysis.git  
+   git clone https://github.com/SANKARIYADHAV/Road-accident-data-analysis_using-Excel- 
 
 2. Open the Excel files in the respective folders.  
 
